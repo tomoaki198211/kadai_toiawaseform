@@ -8,6 +8,7 @@
 }
 
 .contact td input[type='text'],
+.contact td input[type='email'],
 textarea {
   width: 480px;
 }
